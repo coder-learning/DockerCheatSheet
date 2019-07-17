@@ -15,7 +15,7 @@ This repo contain the cheat sheet for commonly used scripts in docker.
 
 # Docker Command as Life Cycle
 
-![Alt text](https://github.com/coder-learning/DockerCheatSheet/blob/master/images/docker_cmd.png?raw=true "Virtual Machines vs Docker Containers")
+![Alt text](https://github.com/coder-learning/DockerCheatSheet/blob/master/images/docker_cmds.png?raw=true "Virtual Machines vs Docker Containers")
 
 
 
